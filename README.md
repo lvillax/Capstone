@@ -9,7 +9,7 @@ The project uses satellite data, socioeconomic data, and statistical modeling to
 - Does vegetation help mitigate the UHI effect?
 - Are vulnerable neighborhoods disproportionately exposed to higher temperatures?
 
-## 🛠Methodology
+## Methodology
 **Data Sources:**
 - Landsat 8 & 9: Daytime Land Surface Temperature (LST) and NDVI
 - MODIS: Nighttime Land Surface Temperature
@@ -30,7 +30,7 @@ The project uses satellite data, socioeconomic data, and statistical modeling to
 - Ordinary Least Squares (OLS) regression
 - Interaction models (analyzing if vegetation's cooling effect varies across neighborhoods)
 
-## 🔍 Main Analytical Steps
+## Main Analytical Steps
 - **Data preprocessing:** Cloud masking, unit conversions (Kelvin → Celsius), land classification.
 - **Vegetation Analysis:** 
   - Calculate and visualize NDVI (Normalized Difference Vegetation Index).
