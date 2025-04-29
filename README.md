@@ -1,8 +1,7 @@
 # Capstone Project: The Urban Heat Island (UHI) Effect in Madrid
 
 ## Project Overview
-This repository contains the final code for my undergraduate capstone project at **IE University**.  
-The project investigates the **Urban Heat Island (UHI) effect** in Madrid, analyzing how **vegetation coverage** and **socioeconomic vulnerability** influence nighttime land surface temperatures across different neighborhoods.
+This repository contains the final code for my undergraduate capstone project. The project investigates the **Urban Heat Island (UHI) effect** in Madrid, analyzing how **vegetation coverage** and **socioeconomic vulnerability** influence nighttime land surface temperatures across different neighborhoods.
 
 The project uses satellite data, socioeconomic data, and statistical modeling to answer:
 - How is heat exposure distributed across Madrid?
